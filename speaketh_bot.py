@@ -10,8 +10,8 @@ shakespeare_data = [
     "Out, out, brief candle! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage",
     "O Romeo, Romeo! wherefore art thou Romeo?",
     "Parting is such sweet sorrow",
-    "All that glisters is not gold",
-    "Double, double toil and trouble; Fire burn and caldron bubble",
+    "All that glitters is not gold",
+    "Double, double toil and trouble; Fire burn and cauldron bubble",
     "Brevity is the soul of wit"
 ]
 
