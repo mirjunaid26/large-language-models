@@ -2,7 +2,7 @@ import random
 
 # Define responses related to the GLiCID supercomputer
 responses_glicid = {
-    "what is GLiCID?": ["GLiCID is a supercomputing center in Nantes used for high-performance computing (HPC) tasks in various scientific and research fields."],
+    "what is GLiCID?": ["GLiCID is a Supercomputing center in Nantes used for High-Performance Computing (HPC) tasks in various scientific and research fields."],
     "where is GLiCID located?": ["GLiCID is located in Nantes."],
     "how can I access GLiCID?": ["To access GLiCID, you'll need to set up SSH access. You can find instructions on setting up SSH access at https://doc.glicid.fr/GLiCID-PUBLIC/latest/."],
     "where can I find documentation for GLiCID?": ["You can find documentation and user guides for GLiCID on the official website or in the documentation section of the GLiCID supercomputer."],
