@@ -80,7 +80,7 @@ def generate_response(query):
 
     return response.strip(', ')
 
-# Example usage
+# Example
 query = "dog and cat"
 response = generate_response(query)
 print("User: ", query)
